@@ -1,0 +1,7 @@
+nodemon installed for live restart the server when any changes occur
+npm i -g nodemon
+
+To start server normally : node index.js
+
+To start server using Nodemon : nodemon
+
